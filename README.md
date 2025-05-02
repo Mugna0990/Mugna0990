@@ -9,7 +9,7 @@ Welcome to my GitHub profile!
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=py,pytorch,sklearn,c,cpp,mysql,java,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,sklearn,c,cpp,mysql,java,ts)](https://skillicons.dev)
 
 
 <h3 align="center">
